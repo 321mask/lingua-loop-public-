@@ -37,12 +37,6 @@ Built on a hexagonal architecture with a functional core, an ADR for every non-t
 
 ---
 
-> [!NOTE]
-> This document is a guided tour written for reviewers and hiring teams. It maps the codebase to the three
-> things it is meant to demonstrate — **full-stack web development**, **system design**, and **security
-> engineering** — and links every claim to the code that backs it. For the day-to-day build & run
-> instructions, see the [developer guide](docs/DEVELOPMENT.md).
-
 ## What it demonstrates at a glance
 
 | Competency | Where to look | Highlights |
@@ -92,11 +86,6 @@ console and a public leaderboard sit on read models fed by the event pipeline.
 ---
 
 ## Screenshots
-
-> [!NOTE]
-> The frames below are design-language mock-ups checked into
-> [`docs/screenshots/`](docs/screenshots/). Swap them for real captures of the running app (same
-> filenames) and this section updates itself — nothing else to change.
 
 <p align="center">
   <img src="docs/screenshots/landing.svg" width="100%" alt="Landing — WebGL velocity-stretch headline over an infinite drag board" />
