@@ -34,6 +34,9 @@ Built on a hexagonal architecture with a functional core, an ADR for every non-t
 
 ---
 
+Check out the app on Google Drive:
+https://drive.google.com/drive/folders/1XPVi1v-ruPHVfepMcxCflPSNOp7dVhIT?usp=sharing
+
 ## What it demonstrates at a glance
 
 | Competency | Where to look | Highlights |
