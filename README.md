@@ -12,7 +12,7 @@ Built on a hexagonal architecture with a functional core, an ADR for every non-t
 
 <!-- LIVE DEMO: replace https://example.com below with your deployment URL, then change
      "add_url-8b949e" to "online-3fb950" so the badge reads green. -->
-[![Live Demo](https://img.shields.io/badge/%E2%96%B6_Live_Demo-add_url-8b949e?style=flat-square)](https://example.com)
+[![Live Demo](https://img.shields.io/badge/%E2%96%B6_Live_Demo-comming soon-8b949e?style=flat-square)](https://example.com)
 [![CI](https://github.com/321mask/LinguaLoop/actions/workflows/ci.yml/badge.svg)](https://github.com/321mask/LinguaLoop/actions/workflows/ci.yml)
 ![Tests](https://img.shields.io/badge/tests-279%20passing-3fb950?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
